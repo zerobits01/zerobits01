@@ -6,7 +6,15 @@
 
 # 🔭 working on
 
-For now I am working as a Cyber Security Analyst and studying MSC at AUT and I'm interested in combining AI(ML/DL) with cyber security.
+I'm Zerobits01, for now i am working as RedTeam Engineer at BluBank and usually i develop tools and infrastructure for red team operations.
+
+I used to study secure-computing at AmirKabir University of technology and also i used to work as blue team engineer.
+
+current interests:
+- red team tools dev
+- windows/linux malware development
+- threat hunting / developing IoCs&IoAs
+- setting up soc teams from the base(architecure, setting up siem, developing usecases and detection engineering)
 
 
 # 📫 contact me
